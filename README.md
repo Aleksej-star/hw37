@@ -1,7 +1,7 @@
 # hw37
 Вам необходимо:
 1. создать репозиторий на github с названием hw37
-2. добавить файл .gitignore с содержимым https://raw.githubusercontent.com/github/gitignore/master/Global/JetBrains.gitignore)
+2. добавить файл .gitignore с содержимым https://raw.githubusercontent.com/github/gitignore/master/Global/JetBrains.gitignore
 3. создать два проекта на github. Один - для редактора вопросов, второй - для для прохождения викторины.
    при создании проектов указывайте Project template: Automated kanban
 4. запланировать задачи для реализации приложения в своих проектах
